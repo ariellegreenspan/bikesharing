@@ -4,12 +4,14 @@
 
 ## Overview of the statistical analysis:
 
-The purpose of the analysis is well defined. (5 pt)
+The purpose of the analysis was to determine different data about New York's Citi Bikes usage including checkout times for Users
 
 ## Results:
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
+- Checkout Times for Users:
+[!Checkout_Times_for_Users](Resources/Checkout_Times_for_Users.png)
+
+  Trip duration for the bulk of users, over 140,000, lasted about 10 minutes. The number of bikes being riden decreased after 10 minutes of usage, lowering steadily down to ~40,000 users at 20 minutes. Trip duration dropped to 20,000 bikes at 30 minutes andthe curve had completely flattenedat the ned of the hour, indicating almost no users were using the bikes for a complete hour.
 
 ## Summary:
 
