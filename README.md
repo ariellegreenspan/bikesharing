@@ -28,13 +28,13 @@
   
  * Trips by Gender (Weekday per Hour):
   
-  ![Trips_by_Gender_(Weekday per Hour)](Resources/Trips_by_Gender_(Weekday_per_Hour.png))
+  ![Trips_by_Gender_(Weekday per Hour)](Resources/Image1.png)
 
 Males used the bikes more than the females, who used them more than the unknown riders. The times that genders used the bikes followed the patterns discussed when looking at the results for the Trips by Weekday for Each Hour, regardless of gender differences between male and female. 
 
 * User Trips by Gender by Weekday:
   
-  ![User Trips by Gender by Weekday](Resources/User_Trips_by Gender_by_Weekday.png)
+  ![User Trips by Gender by Weekday](Resources/User_Trips_by_Gender_by_Weekday.png)
   
   Subscribers tended to use the Citi Bikes more than customers. There was almost no differences found between male, female, and unknown gender customer usage. For subscriber usage, males used the bikes more than females who used them more than unknown genders. The day of the week that male and female subscribers used the bikes the most frequently was Thursday. Usage for male and female subscribers had the highest prminence on Mondays, Tuesdays, Wednesdays and Thursdays. 
 
