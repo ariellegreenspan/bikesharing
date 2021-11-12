@@ -4,7 +4,7 @@
 
 ## Overview of the statistical analysis:
 
-  The purpose of the analysis was to determine different data about New York's Citi Bikes usage including checkout times for users, checkout times by gender, which hours during the day were most prominent for bike usage, which hours during the day were most prominent by gender, customer vs subscriber usage on different days of the week, count of users per gender, and
+  The purpose of the analysis was to determine different data about New York's Citi Bikes usage including checkout times for users, checkout times by gender, which hours during the day were most prominent for bike usage, which hours during the day were most prominent by gender, customer vs subscriber usage on different days of the week, count of users per gender, and bike utilization by ID to determine which bikes are in need of repair.
 
 ## Results:
 
@@ -38,6 +38,15 @@ Males used the bikes more than the females, who used them more than the unknown 
   
   Subscribers tended to use the Citi Bikes more than customers. There was almost no differences found between male, female, and unknown gender customer usage. For subscriber usage, males used the bikes more than females who used them more than unknown genders. The day of the week that male and female subscribers used the bikes the most frequently was Thursday. Usage for male and female subscribers had the highest prminence on Mondays, Tuesdays, Wednesdays and Thursdays. 
 
-## Summary:
+- Gender Breakdown
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+  [!Gender Breakdown](Resources/Gender_Breakdown.png)
+  
+  1,530,272 males used the Citi Bikes, 588,431 females used the Citi Bikes, 225,521 users of unknown gender used the Citi Bikes. Male usage was the most prominent overall, followed by female usage. 
+
+- Bike Repairs
+
+[!Bike Repairs](Resources/Bike_Repairs.png)
+## Summary:
+  After conducting this analysis, it was determined that males ride the citi bikes more often than other genders. Additionally, citi bike usage is most prominent during rush hour in the morning and evenings, and less popular on weekends. The largest number of users will only use the bikes for 10 minutes, so duration of bike usage is very short overall.
+  An additional visualization for future analysis could analyze prominence of different genders at different starting stations. Similarly, another additional visualization could determine the prominence of different genders at different ending stations. 
