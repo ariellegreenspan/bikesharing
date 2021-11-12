@@ -4,7 +4,7 @@
 
 ## Overview of the statistical analysis:
 
-The purpose of the analysis was to determine different data about New York's Citi Bikes usage including checkout times for users, checkout times by gender, which hours during the day were most prominent for bike usage, which hours during the day were most prominent by gender, 
+  The purpose of the analysis was to determine different data about New York's Citi Bikes usage including checkout times for users, checkout times by gender, which hours during the day were most prominent for bike usage, which hours during the day were most prominent by gender, customer vs subscriber usage on different days of the week, count of users per gender, and
 
 ## Results:
 
@@ -12,7 +12,7 @@ The purpose of the analysis was to determine different data about New York's Cit
 
 [!Checkout_Times_for_Users](Resources/Checkout_Times_for_Users.png)
 
-  Trip duration for the bulk of users, over 140,000, lasted about 10 minutes. The number of bikes being riden decreased after 10 minutes of usage, lowering steadily down to ~40,000 users at 20 minutes. Trip duration dropped to 20,000 bikes at 30 minutes andthe curve had completely flattenedat the ned of the hour, indicating almost no users were using the bikes for a complete hour.
+  Trip duration for the bulk of users, over 140,000, lasted about 10 minutes. The number of bikes being riden decreased after 10 minutes of usage, lowering steadily down to ~40,000 users at 20 minutes. Trip duration dropped to 20,000 bikes at 30 minutes andthe curve had completely flattened at the end of the hour, indicating almost no users were using the bikes for a complete hour.
   
 - Checkout Times by Gender:
 
@@ -28,9 +28,15 @@ The purpose of the analysis was to determine different data about New York's Cit
   
  - Trips by Gender (Weekday per Hour):
   
-  [!Trips_by_Gender_(Weekday per Hour)](Resources/Trips_by_Gender_(Weekday per Hour))
+  [!Trips_by_Gender_(Weekday per Hour)](Resources/Trips_by_Gender_(Weekday_per_Hour.png))
 
 Males used the bikes more than the females, who used them more than the unknown riders. The times that genders used the bikes followed the patterns discussed when looking at the results for the Trips by Weekday for Each Hour, regardless of gender differences between male and female. 
+
+- User Trips by Gender by Weekday:
+  
+  [!User Trips by Gender by Weekday](Resources/User_Trips_by Gender_by_Weekday.png)
+  
+  Subscribers tended to use the Citi Bikes more than customers. There was almost no differences found between male, female, and unknown gender customer usage. For subscriber usage, males used the bikes more than females who used them more than unknown genders. The day of the week that male and female subscribers used the bikes the most frequently was Thursday. Usage for male and female subscribers had the highest prminence on Mondays, Tuesdays, Wednesdays and Thursdays. 
 
 ## Summary:
 
