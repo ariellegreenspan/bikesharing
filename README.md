@@ -1,6 +1,6 @@
 # bikesharing
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/app/profile/arielle.greenspan/viz/NewYorkCitiBikeChallenge)
 
 ## Overview of the statistical analysis:
 
