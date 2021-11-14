@@ -48,9 +48,10 @@ Males used the bikes more than the females, who used them more than the unknown 
 
 ![Bike Repairs](Resources/Bike_Repairs.png)
 
+  Bikes with the ID in the 39,000 range have been used more often, so they are likely to need repai sooner/
 
 
 ## Summary:
   
-  After conducting this analysis, it was determined that males ride the citi bikes more often than other genders. Additionally, citi bike usage is most prominent during rush hour in the morning and evenings, and less popular on weekends. The largest number of users will only use the bikes for 10 minutes, so duration of bike usage is very short overall.
+  After conducting this analysis, it was determined that males ride the citi bikes more often than other genders. Additionally, citi bike usage is most prominent during rush hour in the morning and evenings, and less popular on weekends. The largest number of users will only use the bikes for 10 minutes, so duration of bike usage is very short overall. Bikes with the ID in the 39,000 range have been used the most often, so they are more likely to be due for repair. 
   An additional visualization for future analysis could analyze prominence of different genders at different starting stations. Similarly, another additional visualization could determine the prominence of different genders at different ending stations. 
